@@ -6,3 +6,5 @@
 5. Add Skip connection
 6. Add Layer Normalization
 7. Add dropouts.....
+
+Note: - All the code above are executable from colab notebook.
